@@ -23,7 +23,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instaladas las siguientes her
 ## Ejecucion.
 -Simplemente ejecutar el archivo main.py. (Dentro del archivo de código hay variables que igual interesan cambiar en funcion de las necesidades de cada uno)
 
-##Future work.
+## Future work.
 
 Se planea implementar las siguientes caracteristicas:
 - **Modelo de Inteligencia Artificial:** Desarrollar un modelo de IA para predecir futuros precios de Bitcoin basándose en datos históricos y parámetros relevantes.
